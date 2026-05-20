@@ -1,0 +1,6 @@
+cities=['bristol', 'birmingham', 'manchester', 'utah', 'southampton']
+for items in cities:
+ print(items)
+ #looping through an index
+for y in range(len(cities)):
+ print(cities[y])

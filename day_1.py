@@ -1,0 +1,11 @@
+print("hello wolrd")
+print("my name is coogie")
+print("i love studying python")
+print("very soon i should be able to start building my own app") 
+print("thanks to excel global college my dream will come true")
+print("on the other hand i want to thank everyone who has made it possible to achieve this dream")
+print("thanks to my uncle for paying my fees ")
+print("thank you so much")
+print("i would like to extend my sincere gratitudes to my parents for allowing me to move in with my my uncle")
+print("its my dream that one day i will be able to work with microsoft or apple as their software engineer")
+

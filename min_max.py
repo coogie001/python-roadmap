@@ -1,0 +1,6 @@
+fruits=max("mangoes","oranges","kiwi")
+print(fruits)
+x=max(1,2,3,25,50,75,90,100)
+print(x)
+x=min(1,2,3,25,50,75,90,100)
+print(x)
